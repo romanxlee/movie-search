@@ -1,9 +1,17 @@
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style:  normal;
+  font-weight: 400;
+  src: url("./fonts/robotoslab-regular.woff") format("woff");
+}
+
 html {
   font-size: 10px;
 }
 
 * {
   box-sizing: border-box;
+  font-family: 'Roboto Slab';
 }
 
 body {
@@ -30,6 +38,11 @@ small {
 .title {
   font-size: 4.4rem;
   text-align: center;
+}
+
+.logo {
+  width: 7rem;
+  margin-right: 15px;
 }
 
 .form {

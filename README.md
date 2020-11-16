@@ -12,5 +12,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Скопируйте репозиторий  `git clone https://github.com/romanxlee/movie-search.git`
 2. Установите плагины `npm install`
 3. Для сборки используйте:   
-`npm run dev` во время разработки   
+`npm run start` во время разработки   
 `npm run build` для запуска в продакшн   

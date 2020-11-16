@@ -8,7 +8,9 @@ class Main extends React.Component {
     return (
       <>
       <div className="container">
-        <h1 className="title">Movie Searcher</h1>
+        <h1 className="title">
+        <img className="logo" src="./watching-tv.svg" alt="Icons made by http://www.freepik.com" />
+          ФильмоПоиск</h1>
         <SearchMovies />
       </div>
       </>
